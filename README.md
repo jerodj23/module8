@@ -22,4 +22,4 @@ THEN I can perform additional actions until I choose to exit
 
 The application is ran with npm run start
 
-video: [video submission](<../../Downloads/Screen Recording 2024-10-14 at 2.45.12 PM.MOV>) 
+video: https://youtu.be/gfywyhcUMRs?si=CCWN2KClz1UgKU2u 
